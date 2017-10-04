@@ -4,7 +4,7 @@ const HOST = '0.0.0.0';
 const app = express();
 
 //client side requests will be directed here
-app.get('/', (req,res) => {
+app.get('/', (req,res)=> {
 	res.send("Hello Stayasleep\n");
 });
 
