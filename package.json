@@ -1,0 +1,19 @@
+{
+  "name": "docker_intro",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker",
+    "Node.js",
+    "containers"
+  ],
+  "author": "stayasleep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
